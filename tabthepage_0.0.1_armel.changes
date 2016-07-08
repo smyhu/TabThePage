@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 08 Jul 2016 16:41:38 +0000
+Source: tabthepage
+Binary: tabthepage
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ tabthepage - <insert up to 60 chars description>
+Changes: 
+ tabthepage (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 3bf8fbf9c5d888cf742f7c66efa819b31b6a0715 18634 tabthepage_0.0.1_armel.deb
+Checksums-Sha256: 
+ e90af6830d4bd5e21a11e803363e5fe917dab57f084ce2c62a8a2d014122715f 18634 tabthepage_0.0.1_armel.deb
+Files: 
+ ec2eae0c998620b8d5b0518aa28360a7 18634 user/other optional tabthepage_0.0.1_armel.deb
+Maemo-Display-Name: TabThePage
